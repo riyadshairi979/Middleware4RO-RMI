@@ -1,2 +1,0 @@
-Middleware4RemoteObjects
-========================
